@@ -10,5 +10,5 @@
 push_print
 blueBottonを押すと、prinfコマンドで押した回数をプリント出力する。
 出力先は、teraTermである。BlackBottonを押すとリセットされる。
-割込み処理と、デバックの時役立つと思いprintf出力を行った。
-
+割込み処理と、(デバックの時役立つと思い)printf出力を行う。
+詳細はpush_Printf_Readme.pdfを参照してください。
