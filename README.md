@@ -8,7 +8,8 @@
  このため、最終ファイルのみを置くことにしました。 
 (ネット上では.gitignoreのリストはありますが、現状では使いません)
  
-push_print
+push_print：
+
 blueBottonを押すと、prinfコマンドで押した回数をプリント出力する。
 出力先は、teraTermである。BlackBottonを押すとリセットされる。
 割込み処理と、(デバックの時役立つと思い)printf出力を行う。
